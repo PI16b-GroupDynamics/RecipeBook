@@ -1,4 +1,8 @@
 # Книга рецептов
+
+Это сайт который представляет из себя удобный сборник рецептов. Сайт разработан на cms/framework WordPress. 
+![WordPress](https://michellerafter.com/wp-content/uploads/2010/07/WordPress-logo.png)
+
 ![Книга рецептов](http://dl4.joxi.net/drive/2018/05/31/0030/3376/1985840/40/a778f2e9ba.jpg)
 
 ![Книга рецептов](http://dl3.joxi.net/drive/2018/05/31/0030/3376/1985840/40/11d4bcaa7e.jpg)
