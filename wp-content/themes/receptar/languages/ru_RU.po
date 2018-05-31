@@ -1,0 +1,603 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Receptar v10.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-18 10:32+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ receptar
+#: 404.php:22
+msgid "Oops! That page can not be found."
+msgstr "Ой! Это страница не может быть найдено."
+
+# @ receptar
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, что здесь ничего нет. Попробуйте использовать функцию поиска."
+
+# @ receptar
+#: comments.php:43
+#, php-format
+msgctxt "Comments list title."
+msgid "1 comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "1 комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+# @ receptar
+#: comments.php:48
+msgctxt "Add new comment link text."
+msgid "Add yours &rarr;"
+msgstr "Добавьте Ваш &rarr;"
+
+# @ receptar
+#: comments.php:63
+msgid "Comments are closed. You can not add new comments."
+msgstr "Комментарии закрыты. Вы не можете создавать новые комментарии."
+
+# @ receptar
+#: comments.php:87
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ receptar
+#: comments.php:90
+msgid "&larr; Older comments"
+msgstr "&larr; Старые  Комментарии"
+
+# @ receptar
+#: comments.php:94
+msgid "Newer comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+# @ receptar
+#: inc/customizer/controls/class-Customizer_Multiselect.php:42
+msgid "Press CTRL key for multiple selection."
+msgstr "Нажмите клавишу CTRL для выбора нескольких."
+
+# @ receptar
+#: inc/jetpack/jetpack.php:146
+msgid "Load more&hellip;"
+msgstr "Загрузи больше&hellip;"
+
+# @ receptar
+#: inc/lib/core.php:124
+#, php-format
+msgctxt "Site logo image \"alt\" HTML attribute text."
+msgid "%s logo"
+msgstr "%s логотип"
+
+# @ receptar
+#: inc/lib/core.php:413
+#, php-format
+msgctxt "Parted/paginated post table of content title."
+msgid "\"%s\" table of contents"
+msgstr ""
+
+# @ receptar
+#: inc/lib/core.php:457
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ receptar
+#: inc/lib/core.php:511
+msgid "Part %"
+msgstr ""
+
+# @ receptar
+#: inc/lib/core.php:614
+#, php-format
+msgctxt "%d: number of comments."
+msgid "Comments: %d"
+msgstr "Комментарии %d"
+
+# @ receptar
+#: inc/lib/core.php:614
+msgctxt "Title for number of comments in post meta."
+msgid "Comments:"
+msgstr "Комментарии:"
+
+# @ receptar
+#: inc/lib/core.php:645 inc/setup.php:1180
+#, php-format
+msgid "Edit the \"%s\""
+msgstr "Редактировать \"%s\""
+
+# @ receptar
+#: inc/lib/core.php:645 inc/setup.php:1180
+msgctxt "Edit post link."
+msgid "Edit"
+msgstr "Редактировать"
+
+# @ receptar
+#: inc/lib/core.php:678
+#, php-format
+msgid "Permalink to \"%s\""
+msgstr "Постоянная ссылка на %s"
+
+# @ receptar
+#: inc/lib/core.php:705
+msgid "Views count"
+msgstr "Количество просмотров"
+
+# @ receptar
+#: inc/lib/core.php:782
+#, php-format
+msgctxt "Paginated content title suffix."
+msgid "(page %s)"
+msgstr "(страница %s)"
+
+# @ receptar
+#: inc/lib/core.php:994
+msgid "Skip to content"
+msgstr "Наверх"
+
+# @ receptar
+#: inc/lib/core.php:995
+msgid "Skip to navigation"
+msgstr "Перейти к навигации"
+
+# @ receptar
+#: inc/lib/visual-editor.php:111
+msgctxt "Visual editor blockquote formats group title."
+msgid "Quotes"
+msgstr ""
+
+# @ receptar
+#: inc/lib/visual-editor.php:115
+msgid "Blockquote"
+msgstr ""
+
+# @ receptar
+#: inc/lib/visual-editor.php:119
+msgid "Pullquote - align left"
+msgstr ""
+
+# @ receptar
+#: inc/lib/visual-editor.php:124
+msgid "Pullquote - align right"
+msgstr ""
+
+# @ receptar
+#: inc/lib/visual-editor.php:129
+msgctxt "Visual editor format label for HTML CITE tag used to set the blockquote source."
+msgid "Cite"
+msgstr ""
+
+# @ receptar
+#: inc/lib/visual-editor.php:138
+msgid "Text styles"
+msgstr "Стили текста"
+
+# @ receptar
+#: inc/lib/visual-editor.php:142
+msgid "Uppercase heading or paragraph"
+msgstr ""
+
+# @ receptar
+#: inc/lib/visual-editor.php:148
+msgid "Highlighted (marked) text"
+msgstr ""
+
+# @ receptar
+#: inc/lib/visual-editor.php:153
+msgid "Button link"
+msgstr "Кнопка ссылки"
+
+# @ receptar
+#: inc/setup-theme-options.php:67
+msgctxt "Customizer section title."
+msgid "Colors"
+msgstr "Цвета"
+
+# @ receptar
+#: inc/setup-theme-options.php:68 inc/setup-theme-options.php:234
+#: inc/setup-theme-options.php:275
+msgctxt "Customizer panel title."
+msgid "Theme"
+msgstr "Тема"
+
+# @ receptar
+#: inc/setup-theme-options.php:73 inc/setup-theme-options.php:79
+msgid "Accent color"
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:80
+msgid "This color affects links, buttons and other elements of the website"
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:86
+msgid "Accent text color"
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:87
+msgid "Color of text over accent color background"
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:95
+msgid "Header"
+msgstr "Шапка сайта"
+
+# @ receptar
+#: inc/setup-theme-options.php:101 inc/setup-theme-options.php:121
+#: inc/setup-theme-options.php:153 inc/setup-theme-options.php:183
+#: inc/setup-theme-options.php:215
+msgid "Background color"
+msgstr "Фоновый цвет"
+
+# @ receptar
+#: inc/setup-theme-options.php:107 inc/setup-theme-options.php:127
+#: inc/setup-theme-options.php:159 inc/setup-theme-options.php:189
+#: inc/setup-theme-options.php:221
+msgid "Text color"
+msgstr "Цвет текста"
+
+# @ receptar
+#: inc/setup-theme-options.php:115 inc/setup.php:1769
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+# @ receptar
+#: inc/setup-theme-options.php:133 inc/setup-theme-options.php:165
+#: inc/setup-theme-options.php:195
+msgid "Headings color"
+msgstr "Цвет заголовков"
+
+# @ receptar
+#: inc/setup-theme-options.php:139 inc/setup-theme-options.php:171
+#: inc/setup-theme-options.php:201
+msgid "Borders color"
+msgstr "Цвет границ"
+
+# @ receptar
+#: inc/setup-theme-options.php:147
+msgid "Content"
+msgstr "Контент"
+
+# @ receptar
+#: inc/setup-theme-options.php:177
+msgid "Alternative colors"
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:209
+msgid "Footer"
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:233
+msgctxt "Customizer section title."
+msgid "Fonts"
+msgstr "Шрифты"
+
+# @ receptar
+#: inc/setup-theme-options.php:240
+#, php-format
+msgctxt "%s is replaced with linked examples of web fonts libraries such as Google Fonts or Adobe Typekit."
+msgid "This theme does not restrict you to a predefined set of fonts. Please use any font service (such as %s) plugin you want and set the plugin according to the information below."
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:243
+msgid "List of CSS selectors for predefined theme font sets:"
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:245
+msgctxt "CSS selector group name."
+msgid "Texts:"
+msgstr "Тексты:"
+
+# @ receptar
+#: inc/setup-theme-options.php:248
+msgctxt "CSS selector group name."
+msgid "Headings:"
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:251
+msgctxt "CSS selector group name."
+msgid "Logo:"
+msgstr "Логотип:"
+
+# @ receptar
+#: inc/setup-theme-options.php:256
+#, php-format
+msgid "By default the theme uses %1$s font for texts, %2$s font for headings and %3$s font for logo."
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:281
+msgid "Theme Credits"
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:282
+#, php-format
+msgctxt "1: linked theme name, 2: theme author name, 3: theme author link."
+msgid "%1$s is free WordPress theme developed by %2$s. You can obtain other professional WordPress themes at %3$s. Thank you for using this awesome theme!"
+msgstr ""
+
+# @ receptar
+#: inc/setup-theme-options.php:287
+msgid "Donate"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:203
+msgid "Primary Menu"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:204
+msgid "Social Links Menu"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:336
+msgid "In posts list."
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:347
+msgid "In single post page."
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:353
+msgid "In front (and blog) page banner."
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:359
+msgid "In single post page on mobile devices only."
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:481
+msgctxt "WordPress predefined image size name."
+msgid "Thumbnail size"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:482
+msgctxt "WordPress predefined image size name."
+msgid "Medium size"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:483
+msgctxt "WordPress predefined image size name."
+msgid "Large size"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:508
+msgid "Recommended image sizes"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:509
+msgid "For the theme to work correctly, please, set these recommended image sizes:"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:515
+msgid "Size name"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:516
+msgid "Size parameters"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:517
+msgid "Theme usage"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:525
+msgid "cropped"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:525
+msgid "scaled"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:533
+msgid "Additional image size added by the theme. Can not be changed on this page."
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:538
+#, php-format
+msgctxt "1: image width, 2: image height, 3: cropped or scaled?"
+msgid "%1$d &times; %2$d, %3$s"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:1435
+msgid "This content is password protected."
+msgstr "Этот контент защищен паролем."
+
+# @ receptar
+#: inc/setup.php:1435
+msgid "Enter the password to view it."
+msgstr "Введите пароль для просмотра."
+
+# @ receptar
+#: inc/setup.php:1526
+#, php-format
+msgid "Continue reading%s&hellip;"
+msgstr "Подробнее%s&hellip;"
+
+# @ receptar
+#: inc/setup.php:1580
+#, php-format
+msgid "<span class=\"meta-nav\">Published In</span> <span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано</span> <span class=\"post-title\">%title</span>"
+
+# @ receptar
+#: inc/setup.php:1590
+#, php-format
+msgid "<span class=\"meta-nav\">Previous</span> <span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Назад</span> <span class=\"post-title\">%title</span>"
+
+# @ receptar
+#: inc/setup.php:1597
+#, php-format
+msgid "<span class=\"meta-nav\">Next</span> <span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Вперед</span> <span class=\"post-title\">%title</span>"
+
+# @ receptar
+#: inc/setup.php:1605
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+# @ receptar
+#: inc/setup.php:1671
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:1676
+#, php-format
+msgid " - %s"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:1770
+msgid "Displayed in hidden sidebar on left below the primary navigation."
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:1780
+msgid "Header Widgets"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:1781
+msgid "Display widgets in the site header."
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:1838
+msgid "Dropcaps"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:1842
+msgid "Dropcap text"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:1910
+msgctxt "Comment form field placeholder text."
+msgid "Comment"
+msgstr "Комментарий"
+
+# @ receptar
+#: inc/setup.php:1925
+msgctxt "Comment form field placeholder text."
+msgid "Name"
+msgstr "Имя"
+
+# @ receptar
+#: inc/setup.php:1934
+msgctxt "Comment form field placeholder text."
+msgid "Email"
+msgstr ""
+
+# @ receptar
+#: inc/setup.php:1943
+msgctxt "Comment form field placeholder text."
+msgid "Website"
+msgstr "Веб-сайт"
+
+# @ receptar
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ receptar
+#: searchform.php:15
+msgctxt "Search field label."
+msgid "Search"
+msgstr "Поиск"
+
+# @ receptar
+#: searchform.php:16
+msgid "Type and press enter"
+msgstr "Введите поисковый запрос"
+
+# @ receptar
+#: sidebar.php:32
+#, php-format
+msgid "%s site navigation"
+msgstr "%s навигация по сайту"
+
+# @ receptar
+#: sidebar.php:106
+msgctxt "Mobile navigation toggle button title."
+msgid "Menu"
+msgstr "Меню"
+
+# @ receptar
+#: template-parts/content-attachment-image.php:70
+msgctxt "Attachment page publish time."
+msgid "Image published on:"
+msgstr "Изображение опубликовано:"
+
+# @ receptar
+#: template-parts/content-attachment-image.php:74
+msgid "Image size:"
+msgstr "Размер картинки:"
+
+# @ receptar
+#: template-parts/content-attachment-image.php:78
+msgid "Image file name:"
+msgstr "Изображение Имя файла:"
+
+# @ receptar
+#: template-parts/content-none.php:18
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ receptar
+#: template-parts/content-none.php:24
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ receptar
+#: template-parts/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не соответствует условиям поиска. Пожалуйста, попробуйте еще раз с некоторыми разные ключевые слова."
+
+# @ receptar
+#: template-parts/content-none.php:34
+msgid "It seems we can not find what you are looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
